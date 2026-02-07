@@ -1,0 +1,16 @@
+{
+  "key_bindings": {
+    "mute": "o",
+    "unmute": "p"
+  },
+  "settings": {
+    "min_switch_delay": 0.5,
+    "server_port": 3000,
+    "server_host": "127.0.0.1"
+  },
+  "voicemeeter": {
+    "enabled": false,
+    "kind": "banana",
+    "button_index": 0
+  }
+}
