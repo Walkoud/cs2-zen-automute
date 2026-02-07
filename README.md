@@ -89,7 +89,8 @@ If `voicemeeter.enabled` is `true`, you must create a **Macro Button** in Voicem
 
 Macro example image (replace this link with your own screenshot):
 
-`https://example.com/voicemeeter-macro-example.png`
+<img width="656" height="830" alt="image" src="https://github.com/user-attachments/assets/37fede72-3b26-405d-a534-e07c5e638bee" />
+
 
 ## CS2 Setup (Game State Integration)
 
