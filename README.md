@@ -87,7 +87,7 @@ If `voicemeeter.enabled` is `true`, you must create a **Macro Button** in Voicem
 - Set it to toggle the mute state you want
 - Use `button_index: 0` for the first button, `1` for the second, etc.
 
-Macro example image (replace this link with your own screenshot):
+Macro example image :
 
 <img width="656" height="830" alt="image" src="https://github.com/user-attachments/assets/37fede72-3b26-405d-a534-e07c5e638bee" />
 
